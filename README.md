@@ -1,4 +1,4 @@
-# 🚀 Dashboard MQTT - SENAI 790
+# 🚀 Dashboard MQTT - Aula do Curso Téc. de Desenvolvimento de Sistemas.
 
 Este projeto é um dashboard web para monitoramento de sensores e controle de LEDs via MQTT, utilizando o protocolo WebSocket seguro.
 
